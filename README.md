@@ -1,12 +1,15 @@
 # AWS DeepComposer
 
 AWS DeepComposer provides a creative, hands-on experience for learning generative AI and machine learning. With generative AI, one of the biggest recent advancements in artificial intelligence, you can create a new dataset based on a training dataset. With AWS DeepComposer, you can experiment with different generative AI architectures and models in a musical setting by creating and transforming musical inputs and accompaniments.
+<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/2.jpg?raw=true" height="347">
 
 Regardless of your experience with machine learning (ML) or music, you can use AWS DeepComposer to develop a working knowledge of generative AI. AWS DeepComposer includes learning capsules, sample code, and training data to help you understand and use generative AI models.
+<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/5.jpg?raw=true" height="347">
 
 To get started with AWS DeepComposer, start the AWS DeepComposer Music studio, choose one of the sample melodies, and choose a pretrained model. After you generate a composition, you can change the instruments, download your new composition, and share it with friends on SoundCloud.
 
 To flex your creativity, record a custom melody using either the console-based keyboard or the AWS DeepComposer keyboard. To dive deeper, start training custom models using training data provided by AWS. Want more? Learn how to create your own generative adversarial networks (GANs) by using the examples in Jupyter notebooks for SageMaker.
+<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/4.gif?raw=true" height="891">
 
 # AWS DeepComposer concepts
 
@@ -152,6 +155,11 @@ The AWS DeepComposer keyboard is a music keyboard for learning generative AI and
 6. keyboard features
 
 <img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/image1.jpg?raw=true" height="600">
+
+<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/2.jpg?raw=true" height="347">
+
+
+<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/5.jpg?raw=true" height="347">
 
 The AWS DeepComposer keyboard is 32-key, 2 octave keyboard. It has several built-in features that are designed to increase the usability of the AWS DeepComposer keyboard.
 
