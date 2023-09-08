@@ -1,10 +1,10 @@
 # AWS DeepComposer
 
 AWS DeepComposer provides a creative, hands-on experience for learning generative AI and machine learning. With generative AI, one of the biggest recent advancements in artificial intelligence, you can create a new dataset based on a training dataset. With AWS DeepComposer, you can experiment with different generative AI architectures and models in a musical setting by creating and transforming musical inputs and accompaniments.
-<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/2.jpg?raw=true" height="347">
+<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/2.jpg?raw=true" height="496">
 
 Regardless of your experience with machine learning (ML) or music, you can use AWS DeepComposer to develop a working knowledge of generative AI. AWS DeepComposer includes learning capsules, sample code, and training data to help you understand and use generative AI models.
-<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/5.jpg?raw=true" height="347">
+<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/5.jpg?raw=true" height="496">
 
 To get started with AWS DeepComposer, start the AWS DeepComposer Music studio, choose one of the sample melodies, and choose a pretrained model. After you generate a composition, you can change the instruments, download your new composition, and share it with friends on SoundCloud.
 
