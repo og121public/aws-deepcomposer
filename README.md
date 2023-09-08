@@ -156,8 +156,6 @@ The AWS DeepComposer keyboard is a music keyboard for learning generative AI and
 
 <img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/image1.jpg?raw=true" height="600">
 
-<img src="https://github.com/og121public/aws-deepcomposer/blob/main/images/2.jpg?raw=true" height="347">
-
 The AWS DeepComposer keyboard is 32-key, 2 octave keyboard. It has several built-in features that are designed to increase the usability of the AWS DeepComposer keyboard.
 
 ### Arpeggiator (arp)
