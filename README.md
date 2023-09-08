@@ -4,7 +4,7 @@ AWS DeepComposer provides a creative, hands-on experience for learning generativ
 
 Regardless of your experience with machine learning (ML) or music, you can use AWS DeepComposer to develop a working knowledge of generative AI. AWS DeepComposer includes learning capsules, sample code, and training data to help you understand and use generative AI models.
 
-To get started with AWS DeepComposer, start the [AWS DeepComposer Music studio](https://console.aws.amazon.com/deepcomposer/home?region=us-east-1#musicStudio), choose one of the sample melodies, and choose a pretrained model. After you generate a composition, you can change the instruments, download your new composition, and share it with friends on SoundCloud.
+To get started with AWS DeepComposer, start the AWS DeepComposer Music studio, choose one of the sample melodies, and choose a pretrained model. After you generate a composition, you can change the instruments, download your new composition, and share it with friends on SoundCloud.
 
 To flex your creativity, record a custom melody using either the console-based keyboard or the AWS DeepComposer keyboard. To dive deeper, start training custom models using training data provided by AWS. Want more? Learn how to create your own generative adversarial networks (GANs) by using the examples in Jupyter notebooks for SageMaker.
 
@@ -88,7 +88,7 @@ The final output created while training with a machine learning algorithm. The a
 
 ### MuseGAN
 
-A generative adversarial network (GAN) architecture built specifically to generate music. Like other GANs, MuseGAN is made of both a discriminator and a generator that use a CNN. The MuseGAN architecture is available in AWS DeepComposer. To learn more about the MuseGAN architecture, see [Creating the MuseGAN architecture](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17286/15668).
+A generative adversarial network (GAN) architecture built specifically to generate music. Like other GANs, MuseGAN is made of both a discriminator and a generator that use a CNN. The MuseGAN architecture is available in AWS DeepComposer. To learn more about the MuseGAN architecture, see github.com/salu133445/musegan
 
 ### Music studio
 
@@ -144,7 +144,7 @@ The AWS DeepComposer keyboard is a music keyboard for learning generative AI and
 
 ### Setup
 
-1. Open the [link your keyboard](https://console.aws.amazon.com/deepcomposer/home?region=us-east-1#deepComposerKeyboard) section of the AWS DeepComposer console.
+1. Open the link your keyboard section of the AWS DeepComposer console.
 2. Use the included USB cable to connect the keyboard to your computer.
 3. On the back of the keyboard, locate the 8- or 16-digit alphanumeric serial number (S/N or DSN).
 4. In **step 2** in the AWS DeepComposer console, enter the alphanumeric serial number.
